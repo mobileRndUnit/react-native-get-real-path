@@ -1,0 +1,66 @@
+{
+  "_args": [
+    [
+      "react-native-get-real-path@1.0.0",
+      "/Users/oleksiikolomatskiy/Documents/Project/labarchives_new_router/LabArchives"
+    ]
+  ],
+  "_from": "react-native-get-real-path@1.0.0",
+  "_id": "react-native-get-real-path@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha1-FHBD0LcVOjiv+QqsanEgLwnQPMs=",
+  "_location": "/react-native-get-real-path",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-get-real-path@1.0.0",
+    "name": "react-native-get-real-path",
+    "escapedName": "react-native-get-real-path",
+    "rawSpec": "1.0.0",
+    "saveSpec": null,
+    "fetchSpec": "1.0.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-get-real-path/-/react-native-get-real-path-1.0.0.tgz",
+  "_spec": "1.0.0",
+  "_where": "/Users/oleksiikolomatskiy/Documents/Project/labarchives_new_router/LabArchives",
+  "author": {
+    "name": "Anton Dobrovolskyy",
+    "email": "anton@wraptime.io",
+    "url": "https://github.com/anton6"
+  },
+  "bugs": {
+    "url": "https://github.com/wraptime/react-native-get-real-path/issues"
+  },
+  "dependencies": {
+    "bluebird": "^2.9.25"
+  },
+  "description": "Get real file path from uri",
+  "devDependencies": {
+    "react-native": "*"
+  },
+  "homepage": "https://github.com/wraptime/react-native-get-real-path#readme",
+  "keywords": [
+    "react-component",
+    "react-native",
+    "android",
+    "fs",
+    "filesystem",
+    "uri",
+    "path"
+  ],
+  "license": "MIT",
+  "main": "GRP.common.js",
+  "name": "react-native-get-real-path",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/wraptime/react-native-get-real-path.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
